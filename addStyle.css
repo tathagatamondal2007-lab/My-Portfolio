@@ -1,0 +1,118 @@
+body{
+    background-image:url("College.jpg") ;
+    background-size: cover;
+}
+.intro
+{
+    width: 1000px;
+    height: 100px;
+    background-color: yellow;
+    color:black;
+    text-align: center;
+    font-size: 30px;
+    margin-left:250px;
+    border: 3px solid blue;
+    font-family: cursive;
+}
+.my_picture
+{
+    width:200px;
+    height:200px;
+    margin-top:75px;
+    margin-right:75px;
+    background-image:url("My_Picture.jpeg");
+    background-size: cover;
+    border: 3px solid black;
+}
+.me
+{
+    justify-content: center;
+    width:100%;
+    height:200px;
+}
+.college_logo
+{
+    width:250px;
+    height:200px;
+    margin-top:75px;
+    margin-left:75px;
+    background-image:url("iiitr.jpg");
+    background-size: cover;
+    border: 3px solid black;
+}
+.information_1
+{
+    height:50px;
+    width:100%;
+    font-size:30px;
+    font-weight:bolder;
+    color:mediumvioletred;
+    margin-left:50px;
+    margin-top:20px;
+}
+.education{
+    margin-left:50px;
+    margin-right:50px;
+    height:300px;
+    background-color: lawngreen;
+    color:darkgreen;
+    font-family: "Felix Titling", serif;
+    font-size:20px;
+    border: 3px dashed darkblue;
+}
+.Tenth
+{
+    margin-left:60px;
+    margin-top:0;
+    margin-bottom:50px;
+    height:50px;
+    width:50px;
+    background-image:url("augustines.jpg");
+    background-size: cover;
+}
+.Twelfth
+{
+    margin-left:60px;
+    margin-top:0;
+    margin-bottom:20px;
+    height:50px;
+    width:50px;
+    background-image:url("bbit.jpg");
+    background-size: cover;
+}
+.contact
+{
+    margin-left:60px;
+    margin-right:60px;
+    height:180px;
+    background-image:url("contact.jpeg");
+    background-size: cover;
+    font-size:30px;
+    border: 3px solid darkmagenta;
+}
+.contact_info
+{
+    font-size:20px;
+    font-family: "Bernard MT Condensed", serif;
+}
+.built
+{
+    margin-left:50px;
+    margin-right:50px;
+    font-size:25px;
+    height:240px;
+    background-image: url("project.jpg");
+    border:3px dotted saddlebrown;
+    color:blueviolet;
+}
+.interest
+{
+    font-size:30px;
+    font-family: "ui-monospace", serif;
+}
+ul{
+    font-size:25px;
+
+    font-family: "Lucida Handwriting", serif;
+}
+
